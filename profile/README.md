@@ -10,7 +10,6 @@ We have two primary structures: "model" and "data". The existing model comprises
 We create processed and final data. At the end of the project, we will select only the necessary files and structure the processed and final data accordingly.
 
 ​​```
-
 ├── model/
 │   ├── energy/
 │   │   ├── data-processing-prep/     
@@ -34,5 +33,3 @@ We create processed and final data. At the end of the project, we will select on
 ```
 ├── shiny_dashboard/ # will update in the next quarter
 ```
-
-
